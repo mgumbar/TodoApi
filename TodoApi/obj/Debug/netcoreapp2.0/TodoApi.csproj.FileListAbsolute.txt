@@ -9,3 +9,15 @@ C:\Users\gumbarm\developments\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.As
 C:\Users\gumbarm\developments\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
 C:\Users\gumbarm\developments\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
 C:\Users\gumbarm\developments\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\hp_envy\source\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+C:\Users\hp_envy\source\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+C:\Users\hp_envy\source\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+C:\Users\hp_envy\source\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\hp_envy\source\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\hp_envy\source\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojResolveAssemblyReference.cache
+C:\Users\hp_envy\source\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\hp_envy\source\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\hp_envy\source\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+C:\Users\hp_envy\source\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\hp_envy\source\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\hp_envy\source\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\NLog.config

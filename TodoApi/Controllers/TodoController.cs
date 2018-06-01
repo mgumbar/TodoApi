@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using TodoApi.Core;
 using TodoApi.Models;
 
 namespace TodoApi.Controllers
@@ -15,10 +17,12 @@ namespace TodoApi.Controllers
     public class TodoController : Controller
     {
         private readonly TodoContext _context;
+        private readonly ILogger _logger;
 
-        public TodoController(TodoContext context)
+        public TodoController(TodoContext context, ILogger<TodoController> logger)
         {
             _context = context;
+            _logger = logger;
 
             if (_context.TodoItems.Count() == 0)
             {
@@ -36,10 +40,16 @@ namespace TodoApi.Controllers
         [HttpGet("{id}", Name = "GetTodo")]
         public IActionResult GetById(long id)
         {
-            var item = _context.TodoItems.Find(id);
-            if (item == null)
+            TodoItem item;
+            using (_logger.BeginScope("Message attached to logs created in the using block"))
             {
-                return NotFound();
+                _logger.LogInformation(LoggingEvents.GetItemNotFound, "Getting item {ID} OOOOOOOO", id);
+                item = _context.TodoItems.Find(id);
+                if (item == null)
+                {
+                    _logger.LogWarning(LoggingEvents.GetItemNotFound, "GetById({ID}) NOT FOUNDX", id);
+                    return NotFound();
+                }
             }
             return Ok(item);
         }
