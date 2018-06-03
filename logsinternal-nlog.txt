@@ -3,3 +3,8 @@
 2018-06-01 23:55:00.6015 Info Adding target File Target[ownFile-web]
 2018-06-01 23:55:00.6103 Info Configured from an XML element in C:\Users\hp_envy\source\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\nlog.config...
 2018-06-01 23:55:00.6279 Info Found 45 configuration items
+2018-06-03 20:56:14.2737 Info Message Template Auto Format enabled
+2018-06-03 20:56:14.3970 Info Adding target File Target[allfile]
+2018-06-03 20:56:14.4171 Info Adding target File Target[ownFile-web]
+2018-06-03 20:56:14.4274 Info Configured from an XML element in C:\Users\hp_envy\source\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\nlog.config...
+2018-06-03 20:56:14.4440 Info Found 45 configuration items
