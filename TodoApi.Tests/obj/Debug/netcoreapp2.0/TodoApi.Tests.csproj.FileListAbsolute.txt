@@ -1,0 +1,17 @@
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\obj\Debug\netcoreapp2.0\TodoApi.Tests.csprojResolveAssemblyReference.cache
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\obj\Debug\netcoreapp2.0\TodoApi.Tests.csproj.CoreCompileInputs.cache
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\obj\Debug\netcoreapp2.0\TodoApi.Tests.AssemblyInfoInputs.cache
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\obj\Debug\netcoreapp2.0\TodoApi.Tests.AssemblyInfo.cs
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\bin\Debug\netcoreapp2.0\NLog.config
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\bin\Debug\netcoreapp2.0\TodoApi.Tests.deps.json
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\bin\Debug\netcoreapp2.0\TodoApi.Tests.runtimeconfig.json
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\bin\Debug\netcoreapp2.0\TodoApi.Tests.runtimeconfig.dev.json
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\bin\Debug\netcoreapp2.0\TodoApi.Tests.dll
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\bin\Debug\netcoreapp2.0\TodoApi.Tests.pdb
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\bin\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\bin\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\obj\Debug\netcoreapp2.0\TodoApi.Tests.dll
+C:\Users\hp_envy\source\TodoApi\TodoApi.Tests\obj\Debug\netcoreapp2.0\TodoApi.Tests.pdb
